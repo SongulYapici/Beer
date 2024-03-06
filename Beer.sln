@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beer", "Beer\Beer.csproj", "{766BA0E7-86D8-4795-BA8B-E3D8D3BA8CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerTests", "BeerTests\BeerTests.csproj", "{8F32424E-5CF3-48CF-9EF1-1CB5BFB83A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766BA0E7-86D8-4795-BA8B-E3D8D3BA8CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766BA0E7-86D8-4795-BA8B-E3D8D3BA8CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766BA0E7-86D8-4795-BA8B-E3D8D3BA8CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766BA0E7-86D8-4795-BA8B-E3D8D3BA8CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F32424E-5CF3-48CF-9EF1-1CB5BFB83A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F32424E-5CF3-48CF-9EF1-1CB5BFB83A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F32424E-5CF3-48CF-9EF1-1CB5BFB83A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F32424E-5CF3-48CF-9EF1-1CB5BFB83A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1FA8B1-7C45-4B87-97C8-CF42A29D596E}
+	EndGlobalSection
+EndGlobal
